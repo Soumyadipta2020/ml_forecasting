@@ -1,4 +1,4 @@
 pandas
 jupyter
-ployly
+plotly
 nbformat
