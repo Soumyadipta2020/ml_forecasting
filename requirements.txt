@@ -2,3 +2,5 @@ pandas
 jupyter
 plotly
 nbformat
+numpy
+prophet
