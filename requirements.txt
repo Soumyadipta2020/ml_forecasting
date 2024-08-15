@@ -4,3 +4,5 @@ plotly
 nbformat
 numpy
 prophet
+statsmodels
+pmdarima
