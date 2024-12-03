@@ -1,4 +1,4 @@
-# EV Population ML Forecasting 🚗⚡
+# EV Population ↔ ML Forecasting 🚗⚡
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Soumyadipta2020/ml_forecasting?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Soumyadipta2020/ml_forecasting?style=social)
